@@ -1,3 +1,3 @@
 # NixorCollege
-This is my first GitHub Repository
+This is my first GitHub Repository.
 Authur - Muhammad Hamza
